@@ -6,7 +6,7 @@ This is a simple e-commerce web application built using the MERN stack (MongoDB,
 
 # The video is it running locally
 
-[![Watch the video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrvjrKnlHbtjUdHNGtXSg_0T_3JR3ogLelhA&s)]([https://www.loom.com/share/ac6c76c9a243498cb9abf9cc4315e2e1?sid=32f91fde-5d4a-4ab4-a715-d3ea4aa6497d](https://www.loom.com/share/eed6901e89b54f11bf325863e1bb42cb))
+[![Watch the video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrvjrKnlHbtjUdHNGtXSg_0T_3JR3ogLelhA&s)](https://www.loom.com/share/eed6901e89b54f11bf325863e1bb42cb)
 
  I had some version/dependency problems making it work in time with a digitalocean droplet
 
