@@ -3,7 +3,7 @@
 
 This is a simple e-commerce web application built using the MERN stack (MongoDB, Express, React, and Node.js). The application allows users to browse products, leave reviews, and add items to a cart. Users can also register and log in to manage their carts. The products are fetched from [Fake Store API](https://fakestoreapi.com/) and kept up to date with a scheduled job.
 
-https://www.loom.com/share/ac6c76c9a243498cb9abf9cc4315e2e1?sid=32f91fde-5d4a-4ab4-a715-d3ea4aa6497d
+[![Watch the video](https://www.loom.com/share/ac6c76c9a243498cb9abf9cc4315e2e1?sid=32f91fde-5d4a-4ab4-a715-d3ea4aa6497d)
 
 ## Table of Contents
 
